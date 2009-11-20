@@ -1,5 +1,10 @@
 body {
 	background: black;
 	color: lightgrey;
+	font-family: arial, sans-serif;
+}
+
+#header {
+	text-align: center;
 }
 
